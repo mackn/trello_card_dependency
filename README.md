@@ -1,5 +1,5 @@
-Trello Card Dependency
-======================
+mackn's Trello Card Dependency
+==============================
 
 [![Build Status](https://travis-ci.org/mackn/trello_card_dependency.svg?branch=master)](https://travis-ci.org/mackn/trello_card_dependency)
 [![GitHub version](https://img.shields.io/github/tag/mackn/trello_card_dependency.svg)]()
