@@ -171,7 +171,8 @@
         '  <div class="checklist-items-list js-checklist-items-list js-no-higher-edits ui-sortable"></div>' +
         '  <div class="checklist-new-item u-gutter js-new-checklist-item hide dependencies">' +
         '    <div class="checklist-new-item-text js-new-checklist-item-input">' +
-        '      <input type="url" class="_cd_input" placeholder="https://trello.com/c/card_id"><button class="_cd_add_dep">add dependency</button>' +
+        '      <input type="url" class="_cd_new_input" placeholder="New card title"><button class="_cd_add_new_dep">create new card</button>' +
+        '      <input type="url" class="_cd_input" placeholder="https://trello.com/c/card_id"><button class="_cd_add_dep">add existing card</button>' +
         '    </div>' +
         '    <div class="dep-error hide warning">' +
         '      Invalid Trello Card!' +
