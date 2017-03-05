@@ -2,6 +2,8 @@
 
 # reference: https://developer.chrome.com/webstore/using_webstore_api
 
+exit
+
 CAN_PUBLISH=`node deploy_scripts/can_publish.js`
 EXIT_CODE=$?
 
