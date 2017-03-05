@@ -17,7 +17,6 @@ after_success:
 notifications:
   email:
     recipients:
-      - tates001@gmail.com
-      - amcmillan@yieldbot.com
+      - mackn@mackn.org
     on_success: always
     on_failure: always

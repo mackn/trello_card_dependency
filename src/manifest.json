@@ -1,8 +1,8 @@
 {
-  "name": "Trello Card Dependency",
-  "version": "1.0.6",
+  "name": "mackn's Trello Card Dependency",
+  "version": "1.0.7",
   "manifest_version": 2,
-  "homepage_url": "https://github.com/amcmillan01/trello_card_dependency",
+  "homepage_url": "https://github.com/mackn/trello_card_dependency",
   "icons": {
     "48": "logo.png"
   },

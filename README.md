@@ -1,8 +1,8 @@
 Trello Card Dependency
 ======================
 
-[![Build Status](https://travis-ci.org/amcmillan01/trello_card_dependency.svg?branch=master)](https://travis-ci.org/amcmillan01/trello_card_dependency)
-[![GitHub version](https://img.shields.io/github/tag/amcmillan01/trello_card_dependency.svg)]()
+[![Build Status](https://travis-ci.org/mackn/trello_card_dependency.svg?branch=master)](https://travis-ci.org/mackn/trello_card_dependency)
+[![GitHub version](https://img.shields.io/github/tag/mackn/trello_card_dependency.svg)]()
 
 ### Gertting started
 
@@ -35,7 +35,7 @@ simply rename the checklist to `card_dependency` and refresh the page.
 - git rebase
 - git push
 - git push origin --tags
-- check the [travis build](https://travis-ci.org/amcmillan01/trello_card_dependency)
+- check the [travis build](https://travis-ci.org/mackn/trello_card_dependency)
 
 ### License
 
